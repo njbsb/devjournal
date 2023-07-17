@@ -1,0 +1,16 @@
+<environmentvariabledefinition schemaname="glb_JournalList">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <defaultvalue>7b12e801-b374-4b40-b59e-8dc05ff0c659</defaultvalue>
+  <displayname default="Journal List">
+    <label description="Journal List" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>table</parameterkey>
+  <parentdefinitionid>
+    <schemaname>glb_JournalDataSource</schemaname>
+  </parentdefinitionid>
+  <secretstore>0</secretstore>
+  <type>100000004</type>
+</environmentvariabledefinition>

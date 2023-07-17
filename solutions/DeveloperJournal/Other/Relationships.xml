@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_glb_learning" />
+  <EntityRelationship Name="lk_glb_learning_createdby" />
+  <EntityRelationship Name="lk_glb_learning_modifiedby" />
+  <EntityRelationship Name="owner_glb_learning" />
+  <EntityRelationship Name="team_glb_learning" />
+  <EntityRelationship Name="user_glb_learning" />
+</EntityRelationships>
